@@ -3,7 +3,7 @@ A Front-end enthusiast with a strong interest in UI/UX Design. Like solving the 
 
 - 🌱 I’m currently learning **Vue & Svelte**, but I am also deepening my knowledge of **React JS** & **Next.js**, which are my favorite frameworks that I frequently used in previous projects.
 
-- 👨‍💻 All of my projects are available at [riansyh.tech](riansyh.tech), although the website is still under development.
+- 👨‍💻 All of my projects are available at [riansyh.tech](https://riansyh.tech), although the website is still under development.
 
 - 📫 How to reach me **rianfebriansyah22@gmail.com**
 

@@ -1,7 +1,7 @@
 ## 💫 About Me:
 A Front-end enthusiast with a strong interest in UI/UX Design. Like solving the problem by combining that.
 
-- 🌱 I’m currently learning **Vue & Svelte**, but I am also deepening my knowledge of **React JS** & **Next.js**, which are my favorite frameworks that I frequently used in previous projects.
+- 🌱 I’m currently learning **Vue Js**, but I am also deepening my knowledge of **React JS** & **Next.js**, which are my favorite frameworks that I frequently used in previous projects.
 
 - 👨‍💻 All of my projects are available at [riansyh.tech](https://riansyh.tech), although the website is still under development.
 
